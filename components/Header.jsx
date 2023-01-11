@@ -1,5 +1,5 @@
 import { ConnectButton } from "web3uikit"
-export default function () {
+export default function Header() {
     return (
         <div>
             Decentralized Lottery
