@@ -56,8 +56,8 @@ Video coming soon...
 ## Quickstart
 
 ```
-git clone https://github.com/rabobahago/nextjs-smartcontract-lottery-fcc
-cd nextjs-smartcontract-lottery-fcc
+git clone https://github.com/rabobahago/nextjs-smartcontract-lottery
+cd nextjs-smartcontract-lottery
 yarn
 yarn dev
 ```
