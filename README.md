@@ -1,4 +1,4 @@
-# NextJS Smartcontract Lottery (Raffle) FCC
+# NextJS Smartcontract Lottery (Raffle)
 
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
 
@@ -21,7 +21,7 @@ Ethers
 Hardhat
 IPFS
 
-- [NextJS Smartcontract Lottery (Raffle) FCC](#nextjs-smartcontract-lottery-raffle-fcc)
+- [NextJS Smartcontract Lottery (Raffle)](#nextjs-smartcontract-lottery-raffle)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
