@@ -25,7 +25,6 @@ IPFS
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-  - [Typescript](#typescript)
     - [Optional Gitpod](#optional-gitpod)
   - [Formatting in VSCode](#formatting-in-vscode)
 - [Usage](#usage)
@@ -60,14 +59,6 @@ git clone https://github.com/rabobahago/nextjs-smartcontract-lottery
 cd nextjs-smartcontract-lottery
 yarn
 yarn dev
-```
-
-## Typescript
-
-If you want to get to typescript and you cloned the javascript version, just run:
-
-```
-git checkout typescript
 ```
 
 ### Optional Gitpod
